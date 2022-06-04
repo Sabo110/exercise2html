@@ -1,0 +1,29 @@
+table{
+    border-collapse: collapse;
+    
+}
+th{
+    background-color: #CCC;
+    font-weight: bold;
+}
+td,th{
+    border: 1px solid black;
+}
+th,td{
+    padding: 5px;
+}
+.section1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section2{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+td{
+    text-align: center;
+}
